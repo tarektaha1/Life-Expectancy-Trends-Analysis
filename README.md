@@ -21,4 +21,7 @@ The analysis is based on publicly available life expectancy datasets, which cont
 - **NumPy**: Numerical operations.
 - **Matplotlib**: Data visualization.
 
+## Author
+Tarek Taha  
+
 
